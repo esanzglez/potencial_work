@@ -1,3 +1,3 @@
 # potencial_work
 
-Repository fro varios piece of work
+Repository for varios piece of work
